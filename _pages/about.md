@@ -35,6 +35,9 @@ School of Optical and Electronic Information
 
 Huazhong University of Science and Technology
 
+Teaching Assitant
+======
+* ELEC2350 Itroduction to Computer Organization 
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
