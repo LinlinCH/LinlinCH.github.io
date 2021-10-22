@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 About me
 ======
 I am Lin chen, a Ph.D. candidate in the Electronic and Computer Engineering department at the Hong Kong University of Science and Technology (HKUST). I received my B.S. degree in Integrated Circuit Design and Integration System from Huazhong University of Science and Technology, Wuhan, China in 2020. Since 2020, I joined the Big Data System Lab at HKUST. My supervisor is Prof. Jiang Xu. My current research interests cover power management, machine learning and energy-efficient computer architecture.
@@ -18,12 +19,21 @@ Publications
 
 Education
 ======
-2020 - present
+**2020 - present**
+
 Ph.D. student
-Electronic and Computer Engineering Department
+
+Department of Electronic and Computer Engineering 
+
 The Hong Kong University of Science and Technology
 
+**2016 - 2020**
 
+Bachelor of Engineer
+
+School of Optical and Electronic Information
+
+Huazhong University of Science and Technology
 
 <!-- Getting started
 ======
