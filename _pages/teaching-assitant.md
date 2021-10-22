@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching Assitant"
-permalink: /teaching-assitant/
+permalink: /teaching-asssitant/ 
 author_profile: true
 ---
 
