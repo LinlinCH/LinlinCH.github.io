@@ -2,7 +2,7 @@
 title: "Multi-core Power Management Through Deep Reinforcement Learning"
 collection: publications
 permalink: /publication/2021-ISCAS
-excerpt: ''
+excerpt: 'paper 1'
 date: 2021
 venue: 'Conference'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9401447/'
