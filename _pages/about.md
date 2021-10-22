@@ -13,6 +13,7 @@ I am Lin chen, a Ph.D. candidate in the Electronic and Computer Engineering depa
 
 -- Publications
 ======
+* Tian Zhongyuan, **Lin Chen**, et al. "Multi-core Power Management Through Deep Reinforcement Learning." 2021 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE, 2021.
 
 <!-- Getting started
 ======
