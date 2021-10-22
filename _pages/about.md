@@ -22,6 +22,8 @@ Education
 * **2020 - present**
 
   Ph.D. student, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology
+  
+  Supervisor: [Prof. Jiang XU](https://eexu.home.ece.ust.hk/index.html)
 
 * **2016 - 2020**
 
@@ -29,5 +31,5 @@ Education
 
 Teaching Assitant
 ======
-* ELEC2350 Itroduction to Computer Organization 
+* **ELEC2350** Itroduction to Computer Organization 
 
