@@ -18,7 +18,12 @@ Publications
 
 Education
 ======
-* 
+2020 - present
+Ph.D. student
+Electronic and Computer Engineering Department
+The Hong Kong University of Science and Technology
+
+
 
 <!-- Getting started
 ======
