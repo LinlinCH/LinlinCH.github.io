@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _education
+  # _portfolio
   - scope:
       path: ""
-      type: education
+      type: portfolio
     values:
       layout: single
       author_profile: true
