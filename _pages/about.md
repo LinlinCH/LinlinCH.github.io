@@ -21,19 +21,11 @@ Education
 ======
 * **2020 - present**
 
-  <font size=4>Ph.D. student</font>
-
-  <font size=4>Department of Electronic and Computer Engineering</font>
-
-  The Hong Kong University of Science and Technology
+  Ph.D. student, Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology
 
 * **2016 - 2020**
 
-  Bachelor of Engineer
-
-  School of Optical and Electronic Information
-
-  Huazhong University of Science and Technology
+  Bachelor of Engineer, School of Optical and Electronic Information, Huazhong University of Science and Technology
 
 Teaching Assitant
 ======
