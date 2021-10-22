@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Lin CHEN"
   avatar           : "profile.png"
-  bio              : "A Ph.D. candidate from ECE, HKUST"
-  location         : "Clear Water Bay, Hong Kong, China"
+  bio              : "A Ph.D. candidate @ ECE, HKUST"
+  location         : "Hong Kong, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :  #"http://yourfullgooglescholarurl.com"
   email            : "lchencs@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
