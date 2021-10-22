@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "Hong Kong"
-title                    : "Lin CHEN"
+title                    : "Lin Chen"
 title_separator          : "-"
-name                     : &name "Lin CHEN"
+name                     : &name "Lin Chen"
 description              : &description "personal description"
 url                      : https://linlinch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lin CHEN"
+  name             : "Lin Chen"
   avatar           : "profile.png"
   bio              : "A Ph.D. candidate @ ECE, HKUST"
   location         : "Hong Kong, China"
@@ -212,7 +212,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: teaching-assitant
     values:
       layout: single
       author_profile: true
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _education
   - scope:
       path: ""
-      type: portfolio
+      type: education
     values:
       layout: single
       author_profile: true
