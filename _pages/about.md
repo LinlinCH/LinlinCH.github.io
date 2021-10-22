@@ -19,7 +19,7 @@ Publications
 
 Education
 ======
-**2020 - present**
+* **2020 - present**
 
 Ph.D. student
 
@@ -27,7 +27,7 @@ Department of Electronic and Computer Engineering
 
 The Hong Kong University of Science and Technology
 
-**2016 - 2020**
+* **2016 - 2020**
 
 Bachelor of Engineer
 
