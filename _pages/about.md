@@ -7,13 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
--- About me
+About me
 ======
 I am Lin chen, a Ph.D. candidate in the Electronic and Computer Engineering department at the Hong Kong University of Science and Technology (HKUST). I received my B.S. degree in Integrated Circuit Design and Integration System from Huazhong University of Science and Technology, Wuhan, China in 2020. Since 2020, I joined the Big Data System Lab at HKUST. My supervisor is Prof. Jiang Xu. My current research interests cover power management, machine learning and energy-efficient computer architecture.
 
--- Publications
+Publications
 ======
 * Tian Zhongyuan, **Lin Chen**, et al. "Multi-core Power Management Through Deep Reinforcement Learning." 2021 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE, 2021.
+
 
 <!-- Getting started
 ======
