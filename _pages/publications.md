@@ -14,6 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
 ---
 layout: archive
 title: "Publications"
@@ -22,4 +23,6 @@ author_profile: true
 ---
 {% include base_path %}
 
+Conference
+======
 * Tian Zhongyuan, **Lin Chen**, et al. "Multi-core Power Management Through Deep Reinforcement Learning." 2021 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE, 2021.
