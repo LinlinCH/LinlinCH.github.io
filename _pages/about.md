@@ -21,9 +21,9 @@ Education
 ======
 * **2020 - present**
 
-  Ph.D. student
+  <font size=4>Ph.D. student</font>
 
-  Department of Electronic and Computer Engineering 
+  <font size=4>Department of Electronic and Computer Engineering</font>
 
   The Hong Kong University of Science and Technology
 
