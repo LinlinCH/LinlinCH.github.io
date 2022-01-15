@@ -7,7 +7,10 @@ main:
     url: /education/    
 
   - title: "Teaching Assitant"
-    url: /teaching-asssitant/    
+    url: /teaching-asssitant/
+    
+  - title: "Life Recording"
+    url: /life-recording/ 
     
 #   - title: "Portfolio"
 #     url: /portfolio/
