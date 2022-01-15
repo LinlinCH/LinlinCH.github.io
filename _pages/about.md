@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to lin's website!"
+title: "<font size = 10>Welcome to lin's website!</font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -29,7 +29,7 @@ Education
 
   Bachelor of Engineer in School of Optical and Electronic Information, Huazhong University of Science and Technology
 
-Teaching Assitant
+<!-- Teaching Assitant
 ======
-* **ELEC2350** Itroduction to Computer Organization 
+* **ELEC2350** Itroduction to Computer Organization  -->
 
