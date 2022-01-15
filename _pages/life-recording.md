@@ -38,9 +38,10 @@ border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border
 <img src='/images/Hezui3.JPG' align='left' height="60%" width="60%" style='
 border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;
 '/> -->
-
+<center class = "half">
 <img src='/images/Heizui1.JPG' height="50%" width="50%" style='
 border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;
 '/> <img src='/images/Hezui3.JPG' height="50%" width="50%" style='
 border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;
 '/>
+ </center>
