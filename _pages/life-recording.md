@@ -31,7 +31,7 @@ Cape D'Aguilar
 <img src="/images/Hezui3.JPG" height="50%" width="50%" />
 </div>
 
-<img src='/images/Hezui3.JPG' align='left' style=' width:300px;height:100px 
+<img src='/images/Hezui3.JPG' align='left' height="50%" width="50%" style='
 BORDER-RIGHT:#007979 5px solid；
 BORDER-TOP:#007979 5px solid；
 BORDER-LEFT：#007979 5px solid；
