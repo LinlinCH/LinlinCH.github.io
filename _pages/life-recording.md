@@ -18,4 +18,4 @@ author_profile: true
   Bachelor of Engineer in School of Optical and Electronic Information, Huazhong University of Science and Technology -->
   
   Cape D'Aguilar
-![image](Hezui1.jpg)
+![image](/master/images/Hezui1.jpg)
