@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /Life Recording/
+permalink: /life-recording/
 author_profile: true
 ---
 
