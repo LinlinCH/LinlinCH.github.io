@@ -20,13 +20,13 @@ author_profile: true
 Cape D'Aguilar
 ====
 
-<div align=center>
+<div align=left>
 <img src="/images/Hezui1.jpg" height="50%" width="50%" />
 </div>
 
 <br/>
 <br/>
 
-<div align=center>
+<div align=left>
 <img src="/images/Hezui3.JPG" height="50%" width="50%" />
 </div>
