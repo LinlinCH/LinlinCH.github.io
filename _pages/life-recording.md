@@ -19,7 +19,7 @@ author_profile: true
   
 Cape D'Aguilar
 ====
-![image](/images/Hezui1.jpg){:height="50%" width="50%"}
+<div align=center>![image](/images/Hezui1.jpg){:height="50%" width="50%"}
 <br/>
 <br/>
-![image](/images/Hezui3.JPG){:height="50%" width="50%"}
+<div align=center>![image](/images/Hezui3.JPG){:height="50%" width="50%"}
