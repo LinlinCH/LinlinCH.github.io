@@ -17,4 +17,4 @@ author_profile: true
 
   Bachelor of Engineer in School of Optical and Electronic Information, Huazhong University of Science and Technology -->
   
-![avatar](./images/Cycling1.JPG)
+![avatar](Cycling1.JPG)
