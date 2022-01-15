@@ -52,3 +52,13 @@ border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border
 border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;
 '/>
  </left>
+ 
+Cycling
+====
+<left class = "half">
+<img src='/images/Cycling3.JPG' height="45%" width="45%" style='
+border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;
+'/> <img src='/images/Cycling1.JPG' height="45%" width="45%" style='
+border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;
+'/>
+ </left>
