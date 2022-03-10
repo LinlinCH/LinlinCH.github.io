@@ -79,7 +79,7 @@ Victoria Peak
  <left class = "half">
 <img src='/images/Victoria Peak1.JPG' height="45%" width="45%" style='
 border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;
-'/> <img src='/images/Victoria Peak3.JPG' height="45%" width="45%" style='
+'/> <img src='/images/Victoria Peak3.jpg' height="45%" width="45%" style='
 border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;
 '/>
  </left>
