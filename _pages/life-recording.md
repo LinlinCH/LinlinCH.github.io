@@ -65,4 +65,10 @@ border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border
  
  MacLehose Trail
  ====
- 
+ <left class = "half">
+<img src='/images/MacLehose Trail1.JPG' height="45%" width="45%" style='
+border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;
+'/> <img src='/images/MacLehose Trail2.JPG' height="45%" width="45%" style='
+border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;
+'/>
+ </left>
