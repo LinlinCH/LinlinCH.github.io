@@ -84,9 +84,8 @@ border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border
 '/>
  </left>
  
- 
- Cheung Chau
- ===
+Cheung Chau
+====
   <left class = "half">
 <img src='/images/CheungChau2.JPG' height="45%" width="45%" style='
 border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;
@@ -94,3 +93,13 @@ border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border
 border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;
 '/>
  </left>
+ 
+<!--  Cheung Chau
+ ===
+  <left class = "half">
+<img src='/images/CheungChau2.JPG' height="45%" width="45%" style='
+border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;
+'/> <img src='/images/CheungChau4.jpg' height="45%" width="45%" style='
+border-radius:3px; box-shadow:rgba(0,0,0,0.15) 0 0 8px;background:#FBFBFB;border:1px solid #ddd;margin:10px auto;margin-left: 15px;padding:5px;
+'/>
+ </left> -->
