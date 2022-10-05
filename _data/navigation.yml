@@ -9,8 +9,8 @@ main:
   - title: "Teaching Assitant"
     url: /teaching-asssitant/
     
-#   - title: "Life Recording"
-#     url: /life-recording/ 
+  - title: "Life Recording"
+    url: /life-recording/ 
     
 #   - title: "Portfolio"
 #     url: /portfolio/
