@@ -1,4 +1,4 @@
-layout: archive
+<!-- layout: archive
 title: ""
 permalink: /life-recording/
 author_profile: true
