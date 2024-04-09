@@ -38,8 +38,9 @@ Experiences
 ======
 * **2023.10 - present**
 
-Research Intern,  Noah’s Ark Lab
-Huawei Hong Kong Research Center, Hong Kong
+  Research Intern,  Noah’s Ark Lab
+  
+  Huawei Hong Kong Research Center, Hong Kong
 
 <!-- Teaching Assitant
 ======
