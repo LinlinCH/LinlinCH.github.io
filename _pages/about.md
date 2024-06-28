@@ -36,7 +36,7 @@ Education
 
 Experiences
 ======
-* **2023.10 - present**
+* **2023.10 - 2024.06**
 
   Research Intern,  Noah’s Ark Lab
   
